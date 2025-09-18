@@ -62,3 +62,10 @@ layout: default
 
 　　说到底，选择哪种方式上网，取决于你的旅行风格、预算和设备。物理SIM卡接地气，eSIM更省心，没有绝对的好坏。希望这份指南能帮你在这片热情的土地上，时刻保持与世界的精彩连接。
 　　<<<END_ARTICLE
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Colombia SIM 卡购买与激活指南](https://faciylike.github.io/colombia-sim-guides)
